@@ -7,6 +7,6 @@ cd apt
 ls
 
 chmod +x apt.sh
-. /apt.sh
+./apt.sh
         OR
 bash apt.sh
