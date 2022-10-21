@@ -2,6 +2,8 @@
 This is a shell file using this you can easily update & upgrade the terminal without typing full command 
 
 git clone https://github.com/script-hacker48/apt.git
+
+cd apt 
 ls
 
 chmod +x apt.sh
